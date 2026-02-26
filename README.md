@@ -1,1 +1,3 @@
-# polls_apps
+env
+*.pyc
+j
